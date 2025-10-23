@@ -126,6 +126,7 @@ import img3 from "@/assets/3.jpg";
 import img4 from "@/assets/4.jpg";
 import img5 from "@/assets/5.jpg";
 import img6 from "@/assets/6.jpg";
+import img7 from "@/assets/7.jpg";
 
 const slides = [
   { id: 1, src: img1 },
@@ -133,6 +134,7 @@ const slides = [
   { id: 3, src: img3 },
   { id: 4, src: img4 },
   { id: 5, src: img5 },
+  { id: 7, src: img7 },
   { id: 6, src: img6 },
 ];
 
